@@ -1,0 +1,22 @@
+{
+  "name": "project-web-29",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "sass": "^1.57.1",
+    "vite": "^4.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.2",
+    "firebase": "^9.15.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.6.3"
+  }
+}
