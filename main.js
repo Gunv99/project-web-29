@@ -1,5 +1,5 @@
 import "./css/style.css";
-import "bootstrap/dist/js/bootstrap.min.js";
+import "./css/bootstrap.css";
 import { setupAlert } from "./js/alert";
 import { getDocs, collection } from "firebase/firestore";
 import { db } from "./js/firebase";
