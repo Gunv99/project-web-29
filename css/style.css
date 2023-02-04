@@ -33,8 +33,11 @@
     width: 100%;
   }
   .form-control{
-    width: 280px;
+    width: 280px !important;
     border-radius: 0px;
+  }
+  .logo-image {
+    padding: 0 !important;
   }
 }
 
@@ -117,9 +120,6 @@ i{
   .card-image .card-image-info{
     font-size: 14px;
   }
-}
-.card-image-info .card-name {
-  
 }
 .info{
   
